@@ -1,4 +1,4 @@
-# Rodapé Automático – Footer Copyright
+# Rodapé Automático
 
 [![GitHub license](https://img.shields.io/github/license/clcmo/footer_copyright?style=for-the-badge)](https://github.com/clcmo/footer_copyright/blob/main/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/clcmo/footer_copyright?style=for-the-badge)](https://github.com/clcmo/footer_copyright/stargazers)

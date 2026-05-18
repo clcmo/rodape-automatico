@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Rodapé Automático - Footer Copyright
+ * Plugin Name: Rodapé Automático
  * Plugin URI:  https://github.com/clcmo/footer_copyright
  * Description: Adiciona um shortcode para exibir o copyright com o ano atual, personalizado conforme o tipo de site (educativo, sem fins lucrativos, Creative Commons ou geral).
  * Version:     2.0.0
