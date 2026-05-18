@@ -157,7 +157,7 @@ function ra_settings_page() {
 // ─────────────────────────────────────────────
 
 function ra_copyright_shortcode() {
-	$ano        = date( 'Y' );
+	$ano        = gmdate( 'Y' );
 	$site_name  = get_bloginfo( 'name' );
 	$site_url   = get_bloginfo( 'url' );
 	$site_type  = get_option( 'ra_site_type', 'general' );
