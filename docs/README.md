@@ -1,8 +1,8 @@
 # Rodapé Automático
 
-[![GitHub license](https://img.shields.io/github/license/clcmo/footer_copyright?style=for-the-badge)](https://github.com/clcmo/footer_copyright/blob/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/clcmo/footer_copyright?style=for-the-badge)](https://github.com/clcmo/footer_copyright/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/clcmo/footer_copyright?style=for-the-badge)](https://github.com/clcmo/footer_copyright/issues)
+[![GitHub license](https://img.shields.io/github/license/clcmo/rodape-automatico?style=for-the-badge)](https://github.com/clcmo/rodape-automatico/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/clcmo/rodape-automatico?style=for-the-badge)](https://github.com/clcmo/rodape-automatico/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/clcmo/rodape-automatico?style=for-the-badge)](https://github.com/clcmo/rodape-automatico/issues)
 [![GitHub donate](https://img.shields.io/github/sponsors/clcmo?color=pink&style=for-the-badge)](https://github.com/sponsors/clcmo)
 [![Apoie](https://img.shields.io/github/sponsors/clcmo?color=pink&style=for-the-badge)](https://github.com/sponsors/clcmo)
 
@@ -34,17 +34,17 @@ Plugin WordPress que exibe automaticamente o ano atual e o texto de copyright no
 
 ### Via painel do WordPress
 1. Acesse **Plugins → Adicionar novo**
-2. Pesquise por **Rodapé Automático Footer Copyright**
+2. Pesquise por **Rodapé Automático**
 3. Clique em **Instalar** e depois **Ativar**
 
 ### Via upload manual
-1. Faça o download do arquivo `.zip` na aba [Releases](https://github.com/clcmo/footer_copyright/releases)
+1. Faça o download do arquivo `.zip` na aba [Releases](https://github.com/clcmo/rodape-automatico/releases)
 2. Acesse **Plugins → Adicionar novo → Enviar plugin**
 3. Selecione o `.zip` e clique em **Instalar agora**, depois **Ativar**
 
 ### Via FTP / cPanel
 1. Descompacte o `.zip`
-2. Envie a pasta `footer-copyright` para `wp-content/plugins/`
+2. Envie a pasta `rodape-automatico` para `wp-content/plugins/`
 3. Ative o plugin em **Plugins → Plugins instalados**
 
 ---
